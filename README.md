@@ -3,17 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey" alt="avinashxdubey" /></a> </p>
 
-- Ventured through unknowns and built [ResumiFy](https://resumify-woad.vercel.app/)
+- Ventured through unknowns and built **[ResumiFy]**(https://resumify-woad.vercel.app/)
   
-- Descended into the depths of device management and forged DriveSync
+- Descended into the depths of device management and forged **DriveSync**
   
-- Braved the fog of healthcare tech and conjured MediHub from shadows
+- Faced the blank screen abyss and emerged with **MediHub**
   
 - Currently Leveling Up In **ReactJS, Express.js, SpringBoot and the dark arts of clean architecture.**
-
--  Forging my latest creation in the flames of music and insomnia **DriveSync**
-
--  Faced the blank screen abyss and emerged with **MediHub**
 
  🗡️  Summon Me For **Front-end and backend sorcery, single-page quests, and modern UI/UX alchemy.**
 
