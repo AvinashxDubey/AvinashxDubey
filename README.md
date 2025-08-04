@@ -31,8 +31,8 @@
 <div>
   <h2 align="center"><i>These are the relics I’ve mastered in my long journey through the lands of code<h2>
   <div align="left">
-    <h2>Languages: </h2>
-  <p align="left">
+    <h3>Languages: </h3>
+  <p>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
@@ -45,7 +45,7 @@
   </p>
   
   <h3>Frontend:</h3>
-  <p align="left">
+  <p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
@@ -64,7 +64,7 @@
   </p>
   
   <h3>Backend:</h3>
-  <p align="left">
+  <p>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
@@ -77,7 +77,7 @@
   </p>
   
   <h3>Hosting & Cloud:</h3>
-  <p align="left">
+  <p>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
@@ -87,7 +87,7 @@
   </p>
   
   <h3>Databases:</h3>
-  <p align="left">
+  <p>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
@@ -97,7 +97,7 @@
   </p>
   
   <h3>Other Tools:</h3>
-  <p align="left">
+  <p>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
