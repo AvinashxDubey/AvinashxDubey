@@ -34,5 +34,5 @@
 
 <h2 align="center">🐍 My Snake Game Contribution Graph</h2>
 <p align="center">
-  <img src="https://github.com/RAJAN081/RAJAN081/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/AVINASHXDUBEY/AVINASHXDUBEY/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
