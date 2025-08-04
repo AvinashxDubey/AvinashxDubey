@@ -36,3 +36,8 @@
 <p align="center">
   <img src="https://github.com/AVINASHXDUBEY/AVINASHXDUBEY/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
+
+<div align="center">
+    <h2>🐍 My Snake Game Contribution Graph</h2>
+    ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+</div>
