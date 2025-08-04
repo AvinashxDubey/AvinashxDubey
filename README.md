@@ -18,7 +18,8 @@
  <div align="center">
     <h2><i>The Hollow do not rest, nor do I. Amidst errors and edge cases, I persist. Each problem solved, a soul reclaimed.</h2>
    <p>
-     ![LeetCode Stats](https://leetcard.jacoblin.cool/AvinashDubey8780?theme=light&font=Average%20Sans&ext=heatmap)
+     ![LeetCode Stats]()
+     <img alt="leetcode-card" src="https://leetcard.jacoblin.cool/AvinashDubey8780?theme=light&font=Average%20Sans&ext=heatmap">
    </p>
  </div>
 
