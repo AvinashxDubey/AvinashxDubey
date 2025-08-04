@@ -30,7 +30,8 @@
 
 <div>
   <h2 align="center"><i>These are the relics I’ve mastered in my long journey through the lands of code<h2>
-  <h3>Languages: </h3>
+  <div align="left">
+    <h3>Languages: </h3>
   <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -107,6 +108,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
   </p>
+  </div>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en" alt="avinashxdubey" /></p><br>
