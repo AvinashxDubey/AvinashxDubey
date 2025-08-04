@@ -1,4 +1,4 @@
-<h1 align="center">You aren't hollow, are you? Greetings... my name is Avinash.</h1>
+<h1 align="center">You aren't a hollow, are you? Greetings... my name is Avinash.</h1>
 <h3 align="center">- Charting unknown lands with code as my blade. ( •̀ ω •́ )✧</h3><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey" alt="avinashxdubey" /></a> </p>
