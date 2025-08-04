@@ -1,4 +1,4 @@
-<h1 align="center">Who am I, you ask? My name is Avinash</h1>
+<h1 align="center">You aren't hollow, are you? Greetings... my name is Avinash.</h1>
 <h3 align="center">- Charting unknown lands with code as my blade. ( •̀ ω •́ )✧</h3><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey" alt="avinashxdubey" /></a> </p>
@@ -34,7 +34,7 @@
 
 
 <div align="center">
-    <h2><i>Look upon your work. A serpent, devouring your past, winding through forgotten days...</h2>
+    <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>
     <p align="center">
     <img src="https://github.com/AvinashxDubey/AvinashXDubey/blob/output/snake-dark.svg">
     </p>
