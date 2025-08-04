@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashxdubey" alt="avinashxdubey" /></a> </p>
 
-- Ventured through unknowns and built **[ResumiFy]**(https://resumify-woad.vercel.app/)
+- Ventured through unknowns and built [ResumiFy](https://resumify-woad.vercel.app/)
   
 - Descended into the depths of device management and forged **DriveSync**
   
