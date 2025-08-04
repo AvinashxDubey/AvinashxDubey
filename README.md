@@ -31,7 +31,7 @@
 <div>
   <h2 align="center"><i>These are the relics I’ve mastered in my long journey through the lands of code<h2>
   <div align="left">
-    <h3>Languages: </h3>
+    <h2>Languages: </h2>
   <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
