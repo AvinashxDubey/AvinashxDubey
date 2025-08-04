@@ -69,7 +69,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="64" height="64" />
+      <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="40" height="40" />
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
