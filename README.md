@@ -13,7 +13,7 @@
 
  🗡️  Summon Me For **Front-end and backend sorcery, single-page quests, and modern UI/UX alchemy.**
 
- ✒️  Lore Fragment **I debug better with music. These ethereal echoes heal more bugs than caffeine.** <br>
+ ✒️  Lore Fragment: **I debug better with music. These ethereal echoes heal more bugs than caffeine.** <br>
 
  <div align="center">
     <h2><i>The Hollow do not rest, nor do I. Amidst errors and edge cases, I persist. Each problem solved, a soul reclaimed.</h2>
