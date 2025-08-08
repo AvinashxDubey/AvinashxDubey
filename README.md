@@ -113,7 +113,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashxdubey&show_icons=true&locale=en" alt="avinashxdubey" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=avinashxdubey" alt="avinashxdubey" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=avinashxdubey" alt="avinashxdubey" /></p><br>
 
 <div align="center">
     <h2><i>Look upon my work. A serpent, devouring the past, winding through forgotten days...</h2>
